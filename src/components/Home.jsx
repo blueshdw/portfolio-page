@@ -17,7 +17,7 @@ const Home = () => {
       </div>
       <div className="right flex flex-col justify-center items-center gap-5">   
         <div className="logo className="w-[200px] h-[200px]">
-          <img src="https://i.ibb.co/PDwzbxk/Whats-App-Image-2024-06-14-at-11-10-05.jpg" alt="" />
+          <img src="https://i.ibb.co/tCwRGJD/removal-ai-04bbc24d-306b-4cb7-b6ae-ed3dba994b15-whats-app-image-2024-06-14-at-11-10-051.png" alt="" />
         </div>
         <div className="socials flex gap-2 text-5xl">
           <a href="https://discord.gg/6vdqwCSY" target='_blank'><FaDiscord className="text-white cursor-pointer" /></a>
