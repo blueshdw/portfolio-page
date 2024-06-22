@@ -20,7 +20,7 @@ const Home = () => {
           <img src="https://i.ibb.co/x10MgXn/Baslksz100-20240609004641-1.png" alt="" className="w-[500px] h-[500px]" />
         </div>
         <div className="socials flex gap-2 text-5xl">
-          <a href="https://discord.gg/6vdqwCSY" target='_blank'><FaDiscord className="text-white cursor-pointer" /></a>
+          <a href="https://discord.gg/PqwpYjcUu9" target='_blank'><FaDiscord className="text-white cursor-pointer" /></a>
         </div>
       </div>
     </div>
