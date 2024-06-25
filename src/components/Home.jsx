@@ -5,9 +5,9 @@ import {SiGmail} from "react-icons/si";
 
 const Home = () => {
   return (
-    <div className="w-full h-[100vh] flex justify-center items-center">
+    <div className="w-full h-[100vh] flex flex-col lg:flex-row justify-evenly items-center">
       <div className="left w-1/2">
-        <h1 className="text-white md:text-4xl lg:text-8xl ">
+        <h1 className="text-white text-3xl sm:text-4xl lg:text-8xl lg:text-left text-center ">
           We make <br /> games <br /> when we <br /> get bored.
         </h1>
         <div className="buttons flex flex-col gap-2 max-w-[250px] mt-20">
@@ -17,7 +17,7 @@ const Home = () => {
       </div>
       <div className="right flex flex-col justify-center items-center gap-5">   
         <div className="logo">
-          <img src="https://i.ibb.co/x10MgXn/Baslksz100-20240609004641-1.png" alt="" className="w-[500px] h-[500px]" />
+          <img src="https://i.ibb.co/x10MgXn/Baslksz100-20240609004641-1.png" alt="" className="w-[200px] sm:w-[250px] lg:w-[400px] xl:w-[500px]" />
         </div>
         <div className="socials flex gap-2 text-5xl">
           <a href="https://discord.gg/PqwpYjcUu9" target='_blank'><FaDiscord className="text-white cursor-pointer" /></a>
