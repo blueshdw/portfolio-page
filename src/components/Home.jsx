@@ -5,7 +5,7 @@ import {SiGmail} from "react-icons/si";
 
 const Home = () => {
   return (
-    <div className="w-full h-[100vh] flex flex-col lg:flex-row justify-evenly items-center">
+    <div className="w-full h-[100vh] flex flex-col-reverse gap-5 lg:flex-row justify-evenly items-center">
       <div className="left w-1/2">
         <h1 className="text-white text-3xl sm:text-4xl lg:text-8xl lg:text-left text-center ">
           We make <br /> games <br /> when we <br /> get bored.
